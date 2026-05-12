@@ -1,0 +1,44 @@
+# Core dependencies for Dress Collection Shopping System
+
+# No external dependencies required for basic functionality
+# The system uses only Python standard library modules:
+# - json (built-in)
+# - os (built-in)
+# - datetime (built-in)
+# - csv (built-in)
+# - shutil (built-in)
+
+# However, if you want to add additional features, here are optional dependencies:
+
+# For better data visualization (optional)
+# pandas==2.0.3
+# tabulate==0.9.0
+
+# For Excel export support (optional)
+# openpyxl==3.1.2
+
+# For GUI version (optional)
+# tkinter (built-in with Python)
+
+# For web interface (optional)
+# flask==2.3.3
+# flask-sqlalchemy==3.0.5
+
+# For data analysis and reporting (optional)
+# matplotlib==3.7.2
+# seaborn==0.12.2
+
+# For barcode generation on receipts (optional)
+# python-barcode==0.14.0
+
+# For email receipts (optional)
+# smtplib (built-in)
+# email (built-in)
+
+# For PDF receipts instead of text files (optional)
+# reportlab==4.0.4
+
+# For database support instead of JSON files (optional)
+# sqlalchemy==2.0.19
+# pymysql==1.1.0  # for MySQL
+# psycopg2==2.9.7  # for PostgreSQL
